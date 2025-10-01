@@ -39,3 +39,22 @@ Steps taken are the same:
  3. Selecting offense and moving it to values
  4. Changing offense to be "count of offense"
  5. Selecting offense key and moving it to rows
+
+### Story Research
+
+Elias and I are seeing the crime rate and DC and are undecided on exactly what our question is. However, we are able to find crime data and maps for each year for the last 20+ years on dc.gov and we were able to find several articles relating to the crime rate in DC. It is important to noise that many of the articles have been published in recent weeks due to the National Guard being stationed in DC. The big thing is that everything in DC is divided by ward number which allows us to see which ward has what qualities. We will likely answer a question related to the difference in crime between wards, exact details are yet to be determined.
+
+[Article Example](https://usafacts.org/answers/what-is-the-crime-rate-in-the-us/state/washington-dc/)
+
+[Article 2](https://washingtoncitypaper.com/article/373831/mapping-d-c-s-party-affiliations-from-republican-georgetown-to-democratic-washington-highlands/)
+
+Data Sets attached
+
+[dc-crimes-search-results.csv](https://github.com/user-attachments/files/22650198/dc-crimes-search-results.csv)
+
+[Crime_Incidents_in_2025.csv](https://github.com/user-attachments/files/22650199/Crime_Incidents_in_2025.csv)
+
+
+[Data-Statistics-Report-1_2025.pdf](https://github.com/user-attachments/files/22650215/Data-Statistics-Report-1_2025.pdf)
+
+
