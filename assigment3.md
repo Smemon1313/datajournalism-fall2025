@@ -54,6 +54,8 @@ Data Sets attached
 
 [Crime_Incidents_in_2025.csv](https://github.com/user-attachments/files/22650199/Crime_Incidents_in_2025.csv)
 
+[Elias' Repo](https://github.com/egarcia28/datajournalism-fall2025/blob/main/Assignment3.md)
+
 
 [Data-Statistics-Report-1_2025.pdf](https://github.com/user-attachments/files/22650215/Data-Statistics-Report-1_2025.pdf)
 
