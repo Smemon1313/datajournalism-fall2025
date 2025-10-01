@@ -26,6 +26,8 @@ Steps to clean data
 3. Fix typo in data category "theft f/auto"
 
 Thus, the interesting question I chose to answer is the same as my assignment 3 question, results shown below
+
+This is newsworthy because it can tell people who might want to move/live in DC where the most crimes take place and of what variety they are.
 																																													
 <img width="2806" height="193" alt="image" src="https://github.com/user-attachments/assets/90bd5f55-759a-469b-bbde-fabe9b68679c" />
 
