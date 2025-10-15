@@ -11,12 +11,13 @@ My Chart
 The original chart used pie charts which are not good for data visualization, thus I changed the pie chart to become a bar chart demonstrating precentages.
 I felt a bar chart would be better to visualize, rather than several numbers all clumped in a table. Thus, I created my own horizontal bar chart.
 
-[Chart 2](https://data.world/makeovermonday/2025w27-spiritual-religious-beliefs)
+[Chart 2]([https://data.world/makeovermonday/2025w27-spiritual-religious-beliefs](https://data.world/makeovermonday/2025w15-doomsday-clock))
 
 
 My chart
 
-<img width="649" height="680" alt="Screenshot 2025-10-02 at 2 00 10 PM" src="https://github.com/user-attachments/assets/eb77e0e0-fdfb-4b1d-b04b-2791c7948629" />
+![IMG_1591](https://github.com/user-attachments/assets/5ac2884f-ce4e-4859-b0cd-3dfe72723fba)
 
-The original chart was just a table of data, I wanted to add a visualization.
-The reason this works is because it takes each question, applies its answer to the question, and is clearly understandable.
+
+The original chart used clocks as means of displaiyng the minutes till doomsday, which is on theme, but caused clutter.
+My chart was designed to go year by year with exact data given. Because the paper was small, I labeled each point to make it clear what number it was representing.
