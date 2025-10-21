@@ -1,0 +1,1 @@
+<div style="min-height:783px" id="datawrapper-vis-k0qmw"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/k0qmw/embed.js" charset="utf-8" data-target="#datawrapper-vis-k0qmw"></script><noscript><img src="https://datawrapper.dwcdn.net/k0qmw/full.png" alt="Police in Police Service Areas in DC (Choropleth map)" /></noscript></div>
